@@ -4,7 +4,6 @@ O Calendario mestre é uma tabela de dados onde temos todas as informações de 
 Por exemplo, você tem uma data e quer extrair todas as informações de anos, mêses e dias, trimestre, semestre.
 Ela vai pegar estes dados acima e vai criar uma lista / autocalendario até da data de hoje e hoje que você para atualizar o seu controle essa formula vai serpre pegar a data do dia atual. Independente de quando você usar o intervalo destes dados estarão formatados para você.
 
-
 ## Let's Go
 
 Vamos iniciar importando os dados 
